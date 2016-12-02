@@ -1,0 +1,20 @@
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\bin\Debug\mantis_soap.exe.config
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\bin\Debug\mantis_soap.exe
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\bin\Debug\mantis_soap.pdb
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\bin\Debug\mantis_soap.xml
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\obj\x86\Debug\mantis_soap.Form1.resources
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\obj\x86\Debug\mantis_soap.Resources.resources
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\obj\x86\Debug\mantis_soap.vbproj.GenerateResource.Cache
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\obj\x86\Debug\mantis_soap.exe
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\obj\x86\Debug\mantis_soap.xml
+C:\Users\S4364\AppData\Local\Temporary Projects\mantis_soap\obj\x86\Debug\mantis_soap.pdb
+D:\mantis_soap\mantis_soap\bin\Debug\mantis_soap.exe.config
+D:\mantis_soap\mantis_soap\obj\x86\Debug\mantis_soap.exe
+D:\mantis_soap\mantis_soap\obj\x86\Debug\mantis_soap.xml
+D:\mantis_soap\mantis_soap\obj\x86\Debug\mantis_soap.pdb
+D:\mantis_soap\mantis_soap\bin\Debug\mantis_soap.exe
+D:\mantis_soap\mantis_soap\bin\Debug\mantis_soap.pdb
+D:\mantis_soap\mantis_soap\bin\Debug\mantis_soap.xml
+D:\mantis_soap\mantis_soap\obj\x86\Debug\mantis_soap.Form1.resources
+D:\mantis_soap\mantis_soap\obj\x86\Debug\mantis_soap.Resources.resources
+D:\mantis_soap\mantis_soap\obj\x86\Debug\mantis_soap.vbproj.GenerateResource.Cache
